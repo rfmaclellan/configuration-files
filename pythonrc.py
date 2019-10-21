@@ -21,3 +21,4 @@ from scipy.constants import *
 
 deg = pi/180
 
+print 'Loaded configuration file ~/.pythonrc.py'
